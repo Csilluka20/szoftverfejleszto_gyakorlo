@@ -3,3 +3,5 @@ tojas
 kenyer
 alma
 korte
+csoki
+Whiskas
