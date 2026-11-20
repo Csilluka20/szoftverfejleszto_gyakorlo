@@ -1,3 +1,9 @@
+<<<<<<< Updated upstream
 Megkell csinálnom a házi feladatomat! :)
 
 DVD Lemez kell és cd lemez is.
+=======
+
+
+Most már biztos hogy akarok PLaystationt és Xboxot is!
+>>>>>>> Stashed changes
