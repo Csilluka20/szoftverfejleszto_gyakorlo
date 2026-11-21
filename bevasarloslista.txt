@@ -1,9 +1,6 @@
-Harry Potter étteremben voltam!
+Sikeresen lefogok vizsgázni Harry Potter varázslat vizsgáin!
 
-Varázs igék: 
-Expecto Patronum-Patrónusi Bűbáj!
-Lumos Maxima- Fény a pálca végén, teljes fény.
-Wingardium Leviosa- Lebegtető bűbáj.
-Accio - Tárgy idézése magadhoz.
-
-Accio Pizza. Kár hogy nem működik a muglik világásban!
+Kellenek: Mindennapi varázslatok
+	  Elme és befolyásolás varázslatok
+ 	  Védelmi varázslatok
+	  Támadó és párbaj varázslatok
